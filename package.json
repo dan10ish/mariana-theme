@@ -1,0 +1,21 @@
+{
+    "name": "mariana-theme",
+    "displayName": "Mariana Theme",
+    "description": "A minimalist dark theme for VS Code!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mariana Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Mariana Theme-color-theme.json"
+            }
+        ]
+    }
+}
