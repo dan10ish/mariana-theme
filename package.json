@@ -3,23 +3,23 @@
     "displayName": "Mariana Theme",
     "description": "A minimalist dark theme for VS Code!",
     "icon": "Resources/mariana_logo.png",
-    "version": "0.0.1",
-	"publisher": "danish",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/dan7sh/mariana-theme"
-	},
-	"keywords": [
-		"theme",
-		"dark theme",
-		"danish",
-		"danish ansari",
-		"best theme",
-		"cool theme",
-		"dark",
-		"high contrast",
-		"contrast"
-	],
+    "version": "0.1.0",
+    "publisher": "danish",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dan7sh/mariana-theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "danish",
+        "danish ansari",
+        "best theme",
+        "cool theme",
+        "dark",
+        "high contrast",
+        "contrast"
+    ],
     "engines": {
         "vscode": "^1.57.0"
     },
