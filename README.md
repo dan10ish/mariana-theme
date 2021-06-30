@@ -4,17 +4,17 @@
 One of the best Dark Themes in VSCode. 
 
 <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="Resources/css.png" width="450px" title="CSS">
+  <img src="Resources/python.png" width="450px" alt="Python">
 </p>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+<br>
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Issues
+If any **programming language** is not supported or if you find any **bug**, raise an **issue** [here](https://github.com/dan7sh/mariana-theme).
+
+<br>
+---
 
 <br>
 <p align="center">
@@ -29,5 +29,11 @@ Check out my <a href="https://danishansari.dev/">website</a>.
 <a href="https://www.facebook.com/dan7sh/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/dan7sh/dan7sh.github.io/5b54c6cfa39eceda6dbce202a5b4a9162e22d504/Resources/Readme_icons/r_facebook.svg" alt="Danish's Facebook" height="28" width="40"/></a>
 <a href="mailto: aaansaridan@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/dan7sh/dan7sh.github.io/9adf6e7ee4b92ac6e6a266faf4fa8ecf92201b4f/Resources/Readme_icons/r_gmail.svg" alt="Danish's Email" height="36" width="40"/></a>
 </p>
+<br>
 
-**Enjoy!**
+---
+<p align="center">
+<b>Enjoy!</b>
+</p>
+
+---
