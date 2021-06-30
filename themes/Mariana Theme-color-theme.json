@@ -335,6 +335,7 @@
       {
         "scope": [
           "comment.line.scss",
+		  "comment.line.number-sign.python",
           "comment.line.double-slash.js",
           "punctuation.definition.comment.scss",
           "punctuation.definition.comment.js",
@@ -350,7 +351,7 @@
           "text.html.derivative"
         ],
         "settings": {
-          "foreground": "#A7A8AF"
+          "foreground": "#ffffff"
         }
       },
       {
@@ -403,6 +404,8 @@
           "markup.fenced_code.block.markdown",
           "markup.inline.raw.string.markdown",
           "variable.function",
+		  "meta.function-call.generic.python",
+		  "meta.function-call.python",
           "keyword.other.special-method",
           "entity.name.function",
           "markup.bold",
@@ -415,9 +418,17 @@
           "source.sass keyword.control"
         ],
         "settings": {
-          "foreground": "#6C757D"
+          "foreground": "#0AFF99"
         }
       },
+	  {
+		  "scope":[
+			  "source.python"
+		  ],
+		  "settings": {
+			  "foreground": "#FFC300",
+		  }
+	  },
       {
         "scope": [
           "punctuation.definition.string.begin.html",
