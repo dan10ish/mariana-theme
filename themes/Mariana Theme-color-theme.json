@@ -2,9 +2,9 @@
 	"name": "Mariana Theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
+		"editor.background": "#000000",
+		"editor.foreground": "#fff",
+		"activityBarBadge.background": "#FFC300",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
 	"tokenColors": [
