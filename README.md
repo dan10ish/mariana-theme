@@ -1,7 +1,7 @@
-# Mariana Theme
+# **Mariana Theme**
 ## Satisfying Dark Theme for VSCode
 
-One of the best Dark Themes in VSCode. 
+One of the best **Dark Themes** in VSCode. 
 
 <p align="center">
   <img src="Resources/css.png" width="450px" title="CSS">
