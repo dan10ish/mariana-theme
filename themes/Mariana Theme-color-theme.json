@@ -1,23 +1,5 @@
 {
-	"name": "mariana-theme",
-	"displayName": "Mariana Theme",
-	"description": "One of the best dark themes in VSCode!",
-	"publisher": "danish",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/dan7sh/mariana-theme"
-	},
-	"keywords": [
-		"theme",
-		"dark theme",
-		"danish",
-		"danish ansari",
-		"best theme",
-		"cool theme",
-		"dark",
-		"high contrast",
-		"contrast"
-	],
+	"name": "Mariana Theme",
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	"colors": {
