@@ -14,6 +14,7 @@ One of the best **Dark Themes** in VSCode.
 If any **programming language** is not supported or if you find any **bug**, raise an **issue** [here](https://github.com/dan7sh/mariana-theme).
 
 <br>
+
 ---
 
 <br>
