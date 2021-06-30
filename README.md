@@ -1,5 +1,5 @@
 # **Mariana Theme**
-## Satisfying Dark Theme for VSCode
+### Satisfying Dark Theme for VSCode
 
 <br>
 
