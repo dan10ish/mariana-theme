@@ -1,7 +1,7 @@
 # CHANGELOG
 
 ## 0.6.0 | 2021.07.10
-- Minor Bug Fix
+- Updated License
 
 ## 0.5.0 | 2021.07.09
 - Extension README update
