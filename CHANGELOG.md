@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 0.7.0 | 2021.07.10
+- Description bug fix
+
 ## 0.6.0 | 2021.07.10
 - Updated License
 
