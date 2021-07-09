@@ -1,5 +1,5 @@
 # **Mariana Theme**
- ***&#35;OpenSource✌️***
+ [ ***&#35;OpenSource✌️***](https://github.com/dan7sh/mariana-theme) 
  
  <br>
 
