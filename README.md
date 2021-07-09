@@ -1,10 +1,19 @@
 # **Mariana Theme**
+ ***&#35;OpenSource✌️***
+ 
+ <br>
 
- One of the best **Dark Themes** in VSCode.
-
+One of the best **Dark Themes** in VSCode 😉 !
 <br>
+
+### Preview
 <p align="center">
   <img src="Resources/css.png" width="450px" title="CSS">
+</p>
+
+<br>
+
+<p align="center">
   <img src="Resources/python.png" width="450px" alt="Python">
 </p>
 
@@ -12,11 +21,12 @@
 
 ### Support
 All **major programming languages** are supported. <br>Support for new languages are constantly being added with **minor updates**.
+<br>[Contributions](https://github.com/dan7sh/mariana-theme) are always **welcomed** and **appreciated**!
 
 <br>
 
 ### Issues
-If any **programming language** is not supported or if you find any **bug**, raise an **issue** [here](https://github.com/dan7sh/mariana-theme/issues).
+If any **programming language** is not supported or if you find a **bug**, raise an **issue** [here](https://github.com/dan7sh/mariana-theme/issues).
 
 <br>
 

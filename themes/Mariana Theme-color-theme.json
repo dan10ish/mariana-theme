@@ -28,10 +28,10 @@
 		"editor.findMatchHighlightBackground": "#F8F9FA93",
 		"editor.findMatchHighlightBorder": "#FFD60A30",
 		"editor.foreground": "#f1b900",
-		"editor.lineHighlightBackground": "#001129",
+		"editor.lineHighlightBackground": "#001531",
 		"editor.selectionBackground": "#6C757D30",
 		"editor.selectionHighlightBackground": "#F8F9FA6b",
-		"editor.selectionHighlightBorder": "#6C757Df0",
+		"editor.selectionHighlightBorder": "#6c757d52",
 		"editorBracketMatch.background": "#000814",
 		"editorBracketMatch.border": "#0AEFFF7f",
 		"editorCursor.foreground": "#0AEFFF",
@@ -232,7 +232,13 @@
 		{
 			"scope": [
 				"punctuation.definition.interpolation.end.bracket.curly.scss",
-				"punctuation.definition.interpolation.begin.bracket.curly.scss"
+				"punctuation.definition.interpolation.begin.bracket.curly.scss",
+				"variable.other.readwrite.js",
+				"meta.definition.variable.js",
+				"meta.var-single-variable.expr.js",
+				"meta.var.expr.js",
+				"meta.block.js",
+				"meta.function.js"
 			],
 			"settings": {
 				"foreground": "#147DF5"
@@ -240,7 +246,22 @@
 		},
 		{
 			"scope": [
-				"constant.other.php"
+				"constant.other.php",
+				"variable.other.readwrite.js",
+				"meta.definition.variable.js",
+				"meta.var-single - variable.expr.js",
+				"meta.var.expr.js"
+			],
+			"settings": {
+				"foreground": "#0AEFFF"
+			}
+		},
+		{
+			"scope": [
+				"variable.other.readwrite.js",
+				"meta.definition.variable.js",
+				"meta.var-single - variable.expr.js",
+				"meta.var.expr.js"
 			],
 			"settings": {
 				"foreground": "#0AEFFF"
@@ -364,7 +385,8 @@
 				"punctuation.section.class.end.bracket.curly.java",
 				"punctuation.section.class.begin.bracket.curly.java",
 				"meta.class.java",
-				"punctuation.section.method.end.bracket.curly.java"
+				"punctuation.section.method.end.bracket.curly.java",
+				"punctuation.definition.block.js"
 			],
 			"settings": {
 				"foreground": "#ff00f2"
@@ -413,7 +435,8 @@
 				"comment.line.double-slash.cpp"
 			],
 			"settings": {
-				"foreground": "#6D6F7C"
+				"foreground": "#6D6F7C",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -462,7 +485,7 @@
 				"variable.other.property.js"
 			],
 			"settings": {
-				"foreground": "#ffffff",
+				"foreground": "#ffffffee",
 				"fontStyle": ""
 			}
 		},
@@ -564,7 +587,9 @@
 				"markup.inserted.git_gutter",
 				"meta.group.braces.curly",
 				"constant.other.object.key.js",
-				"string.unquoted.label.js"
+				"string.unquoted.label.js",
+				"storage.type.js",
+				"meta.var.expr.js"
 			],
 			"settings": {
 				"foreground": "#147DF5",
