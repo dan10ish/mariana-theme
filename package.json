@@ -3,7 +3,7 @@
     "displayName": "Mariana Theme",
     "description": "A minimalist dark theme for VS Code!",
     "icon": "Resources/mariana_logo.png",
-    "version": "0.4.0",
+    "version": "0.5.0",
     "publisher": "danish",
     "repository": {
         "type": "git",
