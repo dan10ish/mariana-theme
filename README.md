@@ -16,7 +16,7 @@ All **major programming languages** are supported. <br>Support for new languages
 <br>
 
 ### Issues
-If any **programming language** is not supported or if you find any **bug**, raise an **issue** [here](https://github.com/dan7sh/mariana-theme).
+If any **programming language** is not supported or if you find any **bug**, raise an **issue** [here](https://github.com/dan7sh/mariana-theme/issues).
 
 <br>
 
