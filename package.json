@@ -1,7 +1,7 @@
 {
     "name": "mariana-theme",
     "displayName": "Mariana Theme",
-    "description": "A minimalist dark theme for VS Code!",
+    "description": "A Professional and Minimalist Dark theme 🌑  with hand-picked and bold shades for your VSCode Editor!",
     "icon": "Resources/mariana_logo.png",
     "version": "0.5.0",
     "publisher": "danish",
@@ -12,13 +12,15 @@
     "keywords": [
         "theme",
         "dark theme",
-        "danish",
-        "danish ansari",
+        "dracula",
+        "black theme",
         "best theme",
         "cool theme",
         "dark",
         "high contrast",
-        "contrast"
+        "contrast",
+        "danish",
+        "danish ansari"
     ],
     "engines": {
         "vscode": "^1.57.0"
